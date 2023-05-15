@@ -1,0 +1,611 @@
+14:08:43.344: CPU Name: Intel(R) Core(TM) i9-10850K CPU @ 3.60GHz
+14:08:43.345: CPU Speed: 3600MHz
+14:08:43.345: Physical Cores: 10, Logical Cores: 20
+14:08:43.345: Physical Memory: 32669MB Total, 17689MB Free
+14:08:43.345: Windows Version: 10.0 Build 19045 (release: 22H2; revision: 2965; 64-bit)
+14:08:43.345: Running as administrator: false
+14:08:43.345: Windows 10/11 Gaming Features:
+14:08:43.345: 	Game DVR: On
+14:08:43.345: 	Game Mode: Probably On (no reg key set)
+14:08:43.347: Sec. Software Status:
+14:08:43.348: 	Microsoft Defender Antivirus: enabled (AV)
+14:08:43.348: 	Windows-brannmur: enabled (FW)
+14:08:43.349: Current Date/Time: 2023-05-12, 14:08:43
+14:08:43.349: Browser Hardware Acceleration: true
+14:08:43.349: Hide OBS windows from screen capture: false
+14:08:43.349: Qt Version: 6.4.3 (runtime), 6.4.3 (compiled)
+14:08:43.349: Portable mode: true
+14:08:43.578: OBS 29.1.1 (64-bit, windows)
+14:08:43.578: ---------------------------------
+14:08:43.580: ---------------------------------
+14:08:43.580: audio settings reset:
+14:08:43.580: 	samples per sec: 48000
+14:08:43.580: 	speakers:        2
+14:08:43.580: 	max buffering:   960 milliseconds
+14:08:43.580: 	buffering type:  dynamically increasing
+14:08:43.583: ---------------------------------
+14:08:43.583: Initializing D3D11...
+14:08:43.584: Available Video Adapters: 
+14:08:43.585: 	Adapter 0: NVIDIA GeForce RTX 3070
+14:08:43.585: 	  Dedicated VRAM: 8421113856
+14:08:43.585: 	  Shared VRAM:    17128273920
+14:08:43.585: 	  PCI ID:         10de:2484
+14:08:43.586: 	  Driver Version: 31.0.15.2802
+14:08:43.587: 	  output 0:
+14:08:43.587: 	    name=LS27A600U
+14:08:43.587: 	    pos={0, 0}
+14:08:43.587: 	    size={2560, 1440}
+14:08:43.587: 	    attached=true
+14:08:43.587: 	    refresh=59
+14:08:43.587: 	    bits_per_color=8
+14:08:43.587: 	    space=RGB_FULL_G22_NONE_P709
+14:08:43.587: 	    sdr_white_nits=80
+14:08:43.587: 	    nit_range=[min=0.010000, max=1499.000000, max_full_frame=799.000000]
+14:08:43.587: 	    dpi=96 (100%)
+14:08:43.587: 	    id=\\?\DISPLAY#SAM7172#5&2f7066b7&0&UID4352#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:08:43.587: 	    alt_id=\\.\DISPLAY1
+14:08:43.588: 	  output 1:
+14:08:43.588: 	    name=LS27A600U
+14:08:43.588: 	    pos={-2560, 0}
+14:08:43.588: 	    size={2560, 1440}
+14:08:43.588: 	    attached=true
+14:08:43.588: 	    refresh=75
+14:08:43.588: 	    bits_per_color=8
+14:08:43.588: 	    space=RGB_FULL_G22_NONE_P709
+14:08:43.588: 	    sdr_white_nits=80
+14:08:43.588: 	    nit_range=[min=0.010000, max=1499.000000, max_full_frame=799.000000]
+14:08:43.588: 	    dpi=96 (100%)
+14:08:43.588: 	    id=\\?\DISPLAY#SAM7173#5&2f7066b7&0&UID4353#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:08:43.588: 	    alt_id=\\.\DISPLAY2
+14:08:43.590: 	  output 2:
+14:08:43.590: 	    name=EV2436W
+14:08:43.590: 	    pos={2560, 0}
+14:08:43.590: 	    size={1920, 1200}
+14:08:43.590: 	    attached=true
+14:08:43.590: 	    refresh=59
+14:08:43.590: 	    bits_per_color=8
+14:08:43.590: 	    space=RGB_FULL_G22_NONE_P709
+14:08:43.590: 	    sdr_white_nits=80
+14:08:43.590: 	    nit_range=[min=0.500000, max=270.000000, max_full_frame=270.000000]
+14:08:43.590: 	    dpi=96 (100%)
+14:08:43.590: 	    id=\\?\DISPLAY#ENC2384#5&2f7066b7&0&UID4355#{e6f07b5f-ee97-4a90-b076-33f57bf4eaa7}
+14:08:43.590: 	    alt_id=\\.\DISPLAY3
+14:08:43.594: Loading up D3D11 on adapter NVIDIA GeForce RTX 3070 (0)
+14:08:43.659: D3D11 loaded successfully, feature level used: b000
+14:08:43.660: DXGI increase maximum frame latency success
+14:08:43.660: D3D11 GPU priority setup failed (not admin?)
+14:08:45.064: ---------------------------------
+14:08:45.064: video settings reset:
+14:08:45.064: 	base resolution:   1920x1080
+14:08:45.064: 	output resolution: 1280x720
+14:08:45.064: 	downscale filter:  Bicubic
+14:08:45.064: 	fps:               30/1
+14:08:45.064: 	format:            NV12
+14:08:45.064: 	YUV mode:          Rec. 709/Partial
+14:08:45.065: NV12 texture support enabled
+14:08:45.065: P010 texture support not available
+14:08:45.066: Audio monitoring device:
+14:08:45.066: 	name: Default
+14:08:45.066: 	id: default
+14:08:45.067: ---------------------------------
+14:08:45.069: Skipping module '../../obs-plugins/64bit/gsdll64.dll', not an OBS plugin
+14:08:45.071: Skipping module '../../obs-plugins/64bit/chrome_elf.dll', not an OBS plugin
+14:08:45.099: [vlc-video]: VLC 3.0.12 Vetinari found, VLC video source enabled
+14:08:45.148: [Scene Notes Dock] loaded version 0.1.1
+14:08:45.206: [Source Dock] loaded version 0.3.6
+14:08:45.214: No AJA devices found, skipping loading AJA plugin
+14:08:45.214: Failed to initialize module 'aja.dll'
+14:08:45.289: No AJA devices found, skipping loading AJA UI plugin
+14:08:45.289: Failed to initialize module 'aja-output-ui.dll'
+14:08:45.295: [noise suppress]: NVIDIA denoiser disabled, redistributable not found or could not be loaded.
+14:08:45.295: Failed to get NVVideoEffects.dll version info size
+14:08:45.297: [NVIDIA VIDEO FX]: FX disabled, redistributable not found or could not be loaded.
+14:08:45.306: [obs-ndi] hello ! (version 4.10.0)
+14:08:45.306: [obs-ndi] Trying 'C:\Program Files\NDI\NDI 5 Tools\Runtime'
+14:08:45.306: [obs-ndi] Found NDI library at 'C:/Program Files/NDI/NDI 5 Tools/Runtime/Processing.NDI.Lib.x64.dll'
+14:08:45.309: [obs-ndi] NDI runtime loaded successfully
+14:08:45.316: [obs-ndi] NDI library initialized successfully (NDI SDK WIN64 15:51:24 Apr 10 2023 5.5.4.0)
+14:08:45.424: NVENC supported
+14:08:45.535: [NVENC] AV1 is not supported
+14:08:45.601: [obs-browser]: Version 2.21.1
+14:08:45.601: [obs-browser]: CEF Version 103.0.5060.134 (runtime), 103.0.0-5060-shared-textures.2591+g4204d54+chromium-103.0.5060.134 (compiled)
+14:08:45.602: Skipping module '../../obs-plugins/64bit/libEGL.dll', not an OBS plugin
+14:08:45.630: [obs-color-monitor] plugin loaded (plugin version 0.5.2, API version 27.2.4)
+14:08:45.640: Failed to load 'en-US' text for module: 'decklink-output-ui.dll'
+14:08:45.648: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+14:08:45.648: Failed to initialize module 'decklink.dll'
+14:08:45.684: [AMF] Unable to load 'amfrt64.dll', error code 126.
+14:08:45.685: [AMF] AMF Test failed due to one or more errors.
+14:08:45.685: Failed to initialize module 'enc-amf.dll'
+14:08:45.706: [adv-ss] version: 3ac3c7e
+14:08:45.706: [adv-ss] version: 3ac3c7e545c3ed7dd7fe8f6509a3d0e41f940194
+14:08:45.707: [adv-ss] curl loaded successfully
+14:08:45.707: [adv-ss] found curl library
+14:08:45.709: [adv-ss] attempting to load "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/opencv_imgproc460.dll"
+14:08:45.721: [adv-ss] successfully loaded "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/opencv_imgproc460.dll"
+14:08:45.721: [adv-ss] attempting to load "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/opencv_features2d460.dll"
+14:08:45.726: [adv-ss] successfully loaded "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/opencv_features2d460.dll"
+14:08:45.726: [adv-ss] attempting to load "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/opencv_core460.dll"
+14:08:45.726: [adv-ss] successfully loaded "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/opencv_core460.dll"
+14:08:45.726: [adv-ss] attempting to load "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/opencv_objdetect460.dll"
+14:08:45.733: [adv-ss] successfully loaded "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/opencv_objdetect460.dll"
+14:08:45.733: [adv-ss] attempting to load "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/opencv_flann460.dll"
+14:08:45.733: [adv-ss] successfully loaded "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/opencv_flann460.dll"
+14:08:45.733: [adv-ss] attempting to load "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-openvr.dll"
+14:08:45.739: [adv-ss] successfully loaded "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-openvr.dll"
+14:08:45.739: [adv-ss] attempting to load "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/openvr_api.dll"
+14:08:45.739: [adv-ss] successfully loaded "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/openvr_api.dll"
+14:08:45.739: [adv-ss] attempting to load "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-midi.dll"
+14:08:45.743: [adv-ss] successfully loaded "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-midi.dll"
+14:08:45.743: [adv-ss] attempting to load "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/opencv_calib3d460.dll"
+14:08:45.743: [adv-ss] successfully loaded "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/opencv_calib3d460.dll"
+14:08:45.743: [adv-ss] attempting to load "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-opencv.dll"
+14:08:45.749: [adv-ss] successfully loaded "J:/Min disk/OBS Hegnar Media/obs-plugins/64bit/adv-ss-plugins/advanced-scene-switcher-opencv.dll"
+14:08:45.761: Failed to load 'en-US' text for module: 'decklink-captions.dll'
+14:08:45.767: Skipping module '../../obs-plugins/64bit/advanced-scene-switcher-lib.dll', not an OBS plugin
+14:08:45.773: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+14:08:45.780: [obs-websocket] [obs_module_load] you can haz websockets (Version: 5.2.2 | RPC Version: 1)
+14:08:45.780: [obs-websocket] [obs_module_load] Qt version (compile-time): 6.4.3 | Qt version (run-time): 6.4.3
+14:08:45.780: [obs-websocket] [obs_module_load] Linked ASIO Version: 101201
+14:08:45.787: [obs-websocket] [obs_module_load] Module loaded.
+14:08:45.788: Skipping module '../../obs-plugins/64bit/libGLESv2.dll', not an OBS plugin
+14:08:45.789: Skipping module '../../obs-plugins/64bit/libcef.dll', not an OBS plugin
+14:08:45.789: ---------------------------------
+14:08:45.789:   Loaded Modules:
+14:08:45.789:     obs-websocket.dll
+14:08:45.789:     coreaudio-encoder.dll
+14:08:45.789:     decklink-captions.dll
+14:08:45.789:     advanced-scene-switcher.dll
+14:08:45.789:     decklink-output-ui.dll
+14:08:45.789:     image-source.dll
+14:08:45.789:     obs-color-monitor.dll
+14:08:45.789:     frontend-tools.dll
+14:08:45.790:     obs-browser.dll
+14:08:45.790:     obs-ffmpeg.dll
+14:08:45.790:     obs-outputs.dll
+14:08:45.790:     obs-text.dll
+14:08:45.790:     obs-ghostscript.dll
+14:08:45.790:     obs-ndi.dll
+14:08:45.790:     obs-filters.dll
+14:08:45.790:     obs-qsv11.dll
+14:08:45.790:     obs-transitions.dll
+14:08:45.790:     rtmp-services.dll
+14:08:45.790:     obs-vst.dll
+14:08:45.790:     obs-x264.dll
+14:08:45.790:     source-dock.dll
+14:08:45.790:     scene-notes-dock.dll
+14:08:45.790:     text-freetype2.dll
+14:08:45.790:     win-capture.dll
+14:08:45.790:     vlc-video.dll
+14:08:45.790:     win-dshow.dll
+14:08:45.790:     win-wasapi.dll
+14:08:45.790: ---------------------------------
+14:08:45.791: ==== Startup complete ===============================================
+14:08:45.799: Switched to Preview/Program mode
+14:08:45.799: ------------------------------------------------
+14:08:45.907: All scene data cleared
+14:08:45.907: ------------------------------------------------
+14:08:45.932: [stage-timer]: started
+14:08:45.933: [obs-scripting]: Loaded lua script: media-timer.lua
+14:08:45.933: [win-wasapi: 'Skrivebordlyd'] update settings:
+14:08:45.933: 	device id: default
+14:08:45.933: 	use device timing: 1
+14:08:45.936: [Loaded global audio device]: 'Skrivebordlyd'
+14:08:45.937: [win-wasapi: 'Mikrofon (velg riktig device)'] update settings:
+14:08:45.937: 	device id: default
+14:08:45.937: 	use device timing: 0
+14:08:45.950: [noise suppress: 'Noise Suppression'] NVAFX redist is not installed.
+14:08:45.950: [Loaded global audio device]: 'Mikrofon (velg riktig device)'
+14:08:45.950:     - filter: 'Limiter' (limiter_filter)
+14:08:45.950:     - filter: 'Noise Suppression' (noise_suppress_filter_v2)
+14:08:45.950:     - monitoring: monitor and output
+14:08:45.951: started A/V threads for source ''
+14:08:45.951: WASAPI: Device 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' [48000 Hz] initialized
+14:08:45.952: A/V thread for 'NDI - Powerpoint' started
+14:08:45.959: started A/V threads for source 'HOTVPROD01-2021 (PP window)'
+14:08:45.959: A/V thread for 'NDI - Speaker' started
+14:08:45.960: [Media Source 'VB Kilde']: settings:
+14:08:45.960: 	input:                   
+14:08:45.960: 	input_format:            (null)
+14:08:45.960: 	speed:                   100
+14:08:45.960: 	is_looping:              no
+14:08:45.960: 	is_linear_alpha:         no
+14:08:45.960: 	is_hw_decoding:          no
+14:08:45.960: 	is_clear_on_media_end:   no
+14:08:45.960: 	restart_on_activate:     yes
+14:08:45.960: 	close_when_inactive:     no
+14:08:45.960: 	full_decode:             no
+14:08:45.960: 	ffmpeg_options:          
+14:08:45.967: WASAPI: Device 'NDI Webcam 4 (NewTek NDI Audio)' [44100 Hz] initialized
+14:08:45.991: Video Device - PowerPoint-signal: Video format match failed
+14:08:45.991: Video Device - PowerPoint-signal: Video configuration failed
+14:08:46.024: Switched to scene 'Startbilde'
+14:08:46.024: [adv-ss] trying to reconnect to  in 10 seconds.
+14:08:46.069: [obs-color-monitor] save_load_scope_docks saving=0
+14:08:46.069: [adv-ss] started
+14:08:46.086: ---------------------------------
+14:08:46.086: [DShow Device: 'Kamerakilde (dobbeltklikk og velg riktig)'] settings updated: 
+14:08:46.086: 	video device: Camera (NVIDIA Broadcast)
+14:08:46.086: 	video path: 
+14:08:46.086: 	resolution: 1920x1080
+14:08:46.086: 	flip: 0
+14:08:46.086: 	fps: 29.00 (interval: 344827)
+14:08:46.086: 	format: ARGB
+14:08:46.086: 	buffering: disabled
+14:08:46.086: 	hardware decode: disabled
+14:08:46.092: ------------------------------------------------
+14:08:46.092: Loaded scenes:
+14:08:46.092: - scene '| ---------- STANDARD KILDER ---------- |':
+14:08:46.092: - scene 'Startbilde':
+14:08:46.093:     - source: 'Bakgrunnsfarge' (color_source_v3)
+14:08:46.093:     - source: 'Logo til selskap' (image_source)
+14:08:46.093: - scene 'Kamera':
+14:08:46.093:     - source: 'Placeholder' (group)
+14:08:46.093:         - source: 'LightBlue' (color_source_v3)
+14:08:46.094:         - source: 'Tekst - Kamerakilde' (text_gdiplus_v2)
+14:08:46.094:     - source: 'Kamerakilde (dobbeltklikk og velg riktig)' (dshow_input)
+14:08:46.094:     - filter: 'Webcam output' (ndi_filter)
+14:08:46.094: - scene 'Video':
+14:08:46.094:     - source: 'Placeholder Video' (group)
+14:08:46.094:         - source: 'LightBlue' (color_source_v3)
+14:08:46.094:         - source: 'Tekst - Video' (text_gdiplus_v2)
+14:08:46.095:     - source: 'VB Kilde' (ffmpeg_source)
+14:08:46.095:         - monitoring: monitor and output
+14:08:46.095: - scene 'PP':
+14:08:46.095:     - source: 'Placeholder - PP' (group)
+14:08:46.095:         - source: 'LightBlue' (color_source_v3)
+14:08:46.095:         - source: 'Tekst - PP' (text_gdiplus_v2)
+14:08:46.095:     - source: 'Video Device - PowerPoint-signal' (dshow_input)
+14:08:46.096: - scene '| ---------- NDI ---------- |':
+14:08:46.096: - scene 'NDI':
+14:08:46.096:     - source: 'Placeholder NDI' (group)
+14:08:46.096:         - source: 'LightBlue' (color_source_v3)
+14:08:46.096:         - source: 'Tekst - NDI' (text_gdiplus_v2)
+14:08:46.096:     - source: 'NDI - Speaker' (ndi_source)
+14:08:46.096: - scene 'PP NDI':
+14:08:46.097:     - source: 'Placeholder - PP NDI' (group)
+14:08:46.097:         - source: 'LightBlue' (color_source_v3)
+14:08:46.097:         - source: 'Tekst - PP NDI' (text_gdiplus_v2)
+14:08:46.097:     - source: 'NDI - Powerpoint' (ndi_source)
+14:08:46.097: - scene '| ---------- PIP ----------|':
+14:08:46.097: - scene 'PIP Kam&PowerPoint':
+14:08:46.097:     - source: 'LightGrey' (color_source_v3)
+14:08:46.097:     - source: 'Kamera' (scene)
+14:08:46.097:         - filter: 'Webcam output' (ndi_filter)
+14:08:46.098:     - source: 'PP' (scene)
+14:08:46.098: - scene 'PIP NDI&PowerpointNDI':
+14:08:46.098:     - source: 'LightGrey' (color_source_v3)
+14:08:46.098:     - source: 'NDI' (scene)
+14:08:46.098:     - source: 'PP NDI' (scene)
+14:08:46.098: - scene 'PIP Kam&NDI':
+14:08:46.098:     - source: 'LightGrey' (color_source_v3)
+14:08:46.098:     - source: 'NDI' (scene)
+14:08:46.098:     - source: 'Kamera' (scene)
+14:08:46.098:         - filter: 'Webcam output' (ndi_filter)
+14:08:46.098: - scene '|---------- IKKE RØR ---------- |':
+14:08:46.099: - scene 'Tid':
+14:08:46.099:     - source: 'VB Timer tekst' (text_gdiplus_v2)
+14:08:46.099:     - source: 'Klokka' (browser_source)
+14:08:46.099:         - filter: 'Luma Key' (luma_key_filter_v2)
+14:08:46.099:     - source: 'Tekst - VB Timer txt' (text_gdiplus_v2)
+14:08:46.099:     - source: 'Tekst - Klokka' (text_gdiplus_v2)
+14:08:46.099: ------------------------------------------------
+14:09:41.070: Number of remaining views: 1
+14:09:41.070: ---------------------------------
+14:09:41.070: video settings reset:
+14:09:41.070: 	base resolution:   1920x1080
+14:09:41.070: 	output resolution: 1280x720
+14:09:41.070: 	downscale filter:  Bicubic
+14:09:41.070: 	fps:               30/1
+14:09:41.070: 	format:            NV12
+14:09:41.070: 	YUV mode:          Rec. 709/Partial
+14:09:41.071: NV12 texture support enabled
+14:09:41.071: P010 texture support not available
+14:09:41.107: Settings changed (stream 1, outputs, video)
+14:09:41.107: ------------------------------------------------
+14:09:41.108: [obs-color-monitor] save_load_scope_docks saving=1
+14:10:35.120: Settings changed (stream 1)
+14:10:35.120: ------------------------------------------------
+14:10:35.121: [obs-color-monitor] save_load_scope_docks saving=1
+14:10:41.276: Settings changed (outputs)
+14:10:41.276: ------------------------------------------------
+14:10:41.278: [obs-color-monitor] save_load_scope_docks saving=1
+14:10:45.197: Settings changed (outputs)
+14:10:45.197: ------------------------------------------------
+14:10:45.199: [obs-color-monitor] save_load_scope_docks saving=1
+14:10:47.607: Settings changed (outputs)
+14:10:47.607: ------------------------------------------------
+14:10:47.608: [obs-color-monitor] save_load_scope_docks saving=1
+14:10:52.904: Settings changed (outputs)
+14:10:52.904: ------------------------------------------------
+14:10:52.905: [obs-color-monitor] save_load_scope_docks saving=1
+14:11:00.159: Settings changed (outputs)
+14:11:00.159: ------------------------------------------------
+14:11:00.160: [obs-color-monitor] save_load_scope_docks saving=1
+14:11:11.677: Number of remaining views: 1
+14:11:11.677: ---------------------------------
+14:11:11.677: video settings reset:
+14:11:11.677: 	base resolution:   1920x1080
+14:11:11.677: 	output resolution: 1920x1080
+14:11:11.677: 	downscale filter:  Bicubic
+14:11:11.677: 	fps:               30/1
+14:11:11.677: 	format:            NV12
+14:11:11.677: 	YUV mode:          Rec. 709/Partial
+14:11:11.678: NV12 texture support enabled
+14:11:11.678: P010 texture support not available
+14:11:11.715: Settings changed (video)
+14:11:11.715: ------------------------------------------------
+14:11:11.717: [obs-color-monitor] save_load_scope_docks saving=1
+14:12:27.557: Settings changed (outputs)
+14:12:27.557: ------------------------------------------------
+14:12:27.559: [obs-color-monitor] save_load_scope_docks saving=1
+14:12:36.076: Settings changed (outputs)
+14:12:36.076: ------------------------------------------------
+14:12:36.078: [obs-color-monitor] save_load_scope_docks saving=1
+14:12:44.467: Settings changed (outputs)
+14:12:44.467: ------------------------------------------------
+14:12:44.469: [obs-color-monitor] save_load_scope_docks saving=1
+14:12:52.052: Settings changed (outputs)
+14:12:52.052: ------------------------------------------------
+14:12:52.054: [obs-color-monitor] save_load_scope_docks saving=1
+14:13:34.375: Settings changed (outputs)
+14:13:34.375: ------------------------------------------------
+14:13:34.376: [obs-color-monitor] save_load_scope_docks saving=1
+14:13:42.245: [obs-color-monitor] save_load_scope_docks saving=1
+14:13:43.699: User switched to scene 'Video'
+14:13:55.896: [obs-color-monitor] save_load_scope_docks saving=1
+14:13:55.918: [Media Source 'VB Kilde']: settings:
+14:13:55.918: 	input:                   C:/Users/Nicolai/Videos/2022-10-10 13-27-22.mp4
+14:13:55.918: 	input_format:            (null)
+14:13:55.918: 	speed:                   100
+14:13:55.918: 	is_looping:              no
+14:13:55.918: 	is_linear_alpha:         no
+14:13:55.918: 	is_hw_decoding:          no
+14:13:55.918: 	is_clear_on_media_end:   no
+14:13:55.918: 	restart_on_activate:     yes
+14:13:55.918: 	close_when_inactive:     no
+14:13:55.918: 	full_decode:             no
+14:13:55.918: 	ffmpeg_options:          
+14:14:13.245: [obs-color-monitor] save_load_scope_docks saving=1
+14:14:31.529: [obs-color-monitor] save_load_scope_docks saving=1
+14:14:57.425: WASAPI: Device 'VoiceMeeter Input (VB-Audio VoiceMeeter VAIO)' Terminated
+14:14:57.467: Settings changed (audio)
+14:14:57.468: ------------------------------------------------
+14:14:57.484: [obs-color-monitor] save_load_scope_docks saving=1
+14:15:04.183: [win-wasapi: 'Mikrofon (velg riktig device)'] update settings:
+14:15:04.183: 	device id: default
+14:15:04.183: 	use device timing: 0
+14:15:04.200: [obs-color-monitor] save_load_scope_docks saving=1
+14:16:17.475: [jim-nvenc: 'advanced_video_stream'] settings:
+14:16:17.475: 	codec:        H264
+14:16:17.475: 	rate_control: CBR
+14:16:17.475: 	bitrate:      3000
+14:16:17.475: 	cqp:          20
+14:16:17.475: 	keyint:       60
+14:16:17.475: 	preset:       p5
+14:16:17.475: 	tuning:       hq
+14:16:17.475: 	multipass:    disabled
+14:16:17.475: 	profile:      main
+14:16:17.475: 	width:        1920
+14:16:17.475: 	height:       1080
+14:16:17.475: 	b-frames:     2
+14:16:17.475: 	lookahead:    false
+14:16:17.475: 	psycho_aq:    true
+14:16:17.475: 
+14:16:17.525: ---------------------------------
+14:16:17.525: [FFmpeg aac encoder: 'adv_stream_audio'] bitrate: 160, channels: 2, channel_layout: stereo
+14:16:17.525: 
+14:16:17.526: [rtmp stream: 'adv_stream'] Connecting to RTMP URL rtmps://broadcast.companywebcast.com:443/live/ANYENCODER-hegnarmedia...
+14:16:17.549: [jim-nvenc: 'advanced_video_recording'] settings:
+14:16:17.549: 	codec:        H264
+14:16:17.549: 	rate_control: CQP
+14:16:17.549: 	bitrate:      0
+14:16:17.549: 	cqp:          20
+14:16:17.549: 	keyint:       250
+14:16:17.549: 	preset:       p5
+14:16:17.549: 	tuning:       hq
+14:16:17.549: 	multipass:    disabled
+14:16:17.549: 	profile:      high
+14:16:17.549: 	width:        1920
+14:16:17.549: 	height:       1080
+14:16:17.549: 	b-frames:     2
+14:16:17.549: 	lookahead:    false
+14:16:17.549: 	psycho_aq:    true
+14:16:17.549: 
+14:16:17.578: [rtmp stream: 'adv_stream'] Interface: Intel(R) Ethernet Controller (3) I225-V (ethernet, 1000↓/1000↑ mbps)
+14:16:17.578: [rtmp stream: 'adv_stream'] Interface has non-zero error counters (1301/0 errors, 1301/0 discards)
+14:16:17.592: ---------------------------------
+14:16:17.593: [FFmpeg aac encoder: 'Track1'] bitrate: 160, channels: 2, channel_layout: stereo
+14:16:17.593: 
+14:16:17.594: [ffmpeg muxer: 'adv_file_output'] Using muxer settings:
+14:16:17.594: 	movflags=frag_keyframe+empty_moov+delay_moov
+14:16:17.615: ==== Recording Start ===============================================
+14:16:17.615: [ffmpeg muxer: 'adv_file_output'] Writing file 'C:/Users/Nicolai/Videos/2023-05-12 14-16-17.mp4'...
+14:16:17.617: [obs-color-monitor] save_load_scope_docks saving=1
+14:16:18.267: [rtmp stream: 'adv_stream'] Connection to rtmps://broadcast.companywebcast.com:443/live/ANYENCODER-hegnarmedia successful
+14:16:18.267: ==== Streaming Start ===============================================
+14:16:18.267: [rtmp stream: 'adv_stream'] Socket send buffer is 65536 bytes
+14:18:13.286: User switched to scene 'PP'
+14:18:13.695: User switched to scene '| ---------- NDI ---------- |'
+14:18:14.202: User switched to scene 'PP NDI'
+14:18:14.620: User switched to scene 'Kamera'
+14:18:15.209: User switched to scene 'Video'
+14:18:15.983: User switched to scene 'Kamera'
+14:18:16.388: User switched to scene 'Startbilde'
+14:18:17.138: User switched to scene 'Kamera'
+14:18:22.269: User switched to scene 'Startbilde'
+14:18:27.515: User switched to scene 'Kamera'
+14:18:50.237: [obs-color-monitor] save_load_scope_docks saving=1
+14:18:50.861: ---------------------------------
+14:18:50.861: [DShow Device: 'Kamerakilde (dobbeltklikk og velg riktig)'] settings updated: 
+14:18:50.861: 	video device: Camera (NVIDIA Broadcast)
+14:18:50.861: 	video path: 
+14:18:50.861: 	resolution: 1920x1080
+14:18:50.861: 	flip: 0
+14:18:50.861: 	fps: 29.00 (interval: 344827)
+14:18:50.861: 	format: ARGB
+14:18:50.861: 	buffering: disabled
+14:18:50.861: 	hardware decode: disabled
+14:18:51.591: User switched to scene 'Video'
+14:19:00.689: [obs-color-monitor] save_load_scope_docks saving=1
+14:19:15.714: [obs-color-monitor] save_load_scope_docks saving=1
+14:20:16.774: [obs-color-monitor] save_load_scope_docks saving=1
+14:20:17.229: [ffmpeg muxer: 'adv_file_output'] Output of file 'C:/Users/Nicolai/Videos/2023-05-12 14-16-17.mp4' stopped
+14:20:17.229: Output 'adv_file_output': stopping
+14:20:17.229: Output 'adv_file_output': Total frames output: 7176
+14:20:17.230: Output 'adv_file_output': Total drawn frames: 7189
+14:20:17.230: ==== Recording Stop ================================================
+14:20:17.230: [rtmp stream: 'adv_stream'] User stopped the stream
+14:20:17.230: [rtmp stream: 'adv_stream'] Socket send buffer is 1048576 bytes
+14:20:17.230: Output 'adv_stream': stopping
+14:20:17.230: Output 'adv_stream': Total frames output: 7156
+14:20:17.230: Output 'adv_stream': Total drawn frames: 7191
+14:20:17.234: ==== Streaming Stop ================================================
+14:20:17.287: warning: 2 frames left in the queue on closing
+14:20:17.313: warning: 2 frames left in the queue on closing
+14:20:34.961: [obs-color-monitor] save_load_scope_docks saving=1
+14:20:58.268: User switched to scene 'PP'
+14:20:59.661: User switched to scene 'Startbilde'
+14:21:00.258: User switched to scene '| ---------- STANDARD KILDER ---------- |'
+14:23:15.176: adding 362 milliseconds of audio buffering, total audio buffering is now 362 milliseconds (source: VB Kilde)
+14:23:15.176: 
+14:25:09.851: Number of remaining views: 1
+14:25:09.852: ---------------------------------
+14:25:09.852: video settings reset:
+14:25:09.852: 	base resolution:   1920x1080
+14:25:09.852: 	output resolution: 1920x1080
+14:25:09.852: 	downscale filter:  Bicubic
+14:25:09.852: 	fps:               30/1
+14:25:09.852: 	format:            NV12
+14:25:09.852: 	YUV mode:          Rec. 709/Partial
+14:25:09.853: NV12 texture support enabled
+14:25:09.853: P010 texture support not available
+14:25:09.897: Settings changed (stream 1, outputs, video)
+14:25:09.897: ------------------------------------------------
+14:25:09.899: [obs-color-monitor] save_load_scope_docks saving=1
+14:25:29.010: [obs-color-monitor] save_load_scope_docks saving=1
+14:25:34.504: ==== Shutting down ==================================================
+14:25:34.506: [obs-color-monitor] save_load_scope_docks saving=1
+14:25:34.537: [stage-timer]: ended
+14:25:34.537: [obs-scripting]: Unloaded lua script: media-timer.lua
+14:25:34.538: WASAPI: Device 'NDI Webcam 4 (NewTek NDI Audio)' Terminated
+14:25:34.653: audio thread for 'NDI - Powerpoint' completed
+14:25:34.723: audio thread for 'NDI - Speaker' completed
+14:25:35.272: All scene data cleared
+14:25:35.272: ------------------------------------------------
+14:25:35.272: [adv-ss] stopped
+14:25:35.273: [adv-ss] trying to reconnect to  in 10 seconds.
+14:25:35.273: [adv-ss] trying to reconnect to  in 10 seconds.
+14:25:35.402: [obs-websocket] [obs_module_unload] Shutting down...
+14:25:35.407: [obs-websocket] [obs_module_unload] Finished shutting down.
+14:25:35.407: [obs-color-monitor] plugin unloaded
+14:25:35.408: [Scripting] Total detached callbacks: 8
+14:25:35.460: [obs-ndi] goodbye !
+14:25:35.463: Freeing OBS context data
+14:25:35.478: == Profiler Results =============================
+14:25:35.478: run_program_init: 3026.86 ms
+14:25:35.478:  ┣OBSApp::AppInit: 37.208 ms
+14:25:35.478:  ┃ ┗OBSApp::InitLocale: 9.232 ms
+14:25:35.478:  ┗OBSApp::OBSInit: 2930.44 ms
+14:25:35.478:    ┣obs_startup: 5.595 ms
+14:25:35.479:    ┗OBSBasic::OBSInit: 2694.66 ms
+14:25:35.479:      ┣OBSBasic::InitBasicConfig: 1.256 ms
+14:25:35.479:      ┣OBSBasic::ResetAudio: 0.538 ms
+14:25:35.479:      ┣OBSBasic::ResetVideo: 1485.61 ms
+14:25:35.479:      ┣OBSBasic::InitOBSCallbacks: 0.073 ms
+14:25:35.479:      ┣OBSBasic::InitHotkeys: 0.024 ms
+14:25:35.479:      ┣obs_load_all_modules2: 722.529 ms
+14:25:35.479:      ┃ ┣obs_init_module(win-wasapi.dll): 0.007 ms
+14:25:35.479:      ┃ ┣obs_init_module(win-dshow.dll): 1.402 ms
+14:25:35.479:      ┃ ┣obs_init_module(vlc-video.dll): 1.43 ms
+14:25:35.479:      ┃ ┣obs_init_module(win-capture.dll): 33.536 ms
+14:25:35.479:      ┃ ┣obs_init_module(text-freetype2.dll): 0.193 ms
+14:25:35.479:      ┃ ┣obs_init_module(scene-notes-dock.dll): 48.984 ms
+14:25:35.479:      ┃ ┣obs_init_module(source-dock.dll): 0.097 ms
+14:25:35.479:      ┃ ┣obs_init_module(aja.dll): 0.62 ms
+14:25:35.479:      ┃ ┣obs_init_module(obs-x264.dll): 0.003 ms
+14:25:35.479:      ┃ ┣obs_init_module(obs-vst.dll): 0.002 ms
+14:25:35.479:      ┃ ┣obs_init_module(rtmp-services.dll): 8.428 ms
+14:25:35.479:      ┃ ┣obs_init_module(obs-transitions.dll): 0.006 ms
+14:25:35.479:      ┃ ┣obs_init_module(obs-qsv11.dll): 26.364 ms
+14:25:35.479:      ┃ ┣obs_init_module(aja-output-ui.dll): 0.569 ms
+14:25:35.479:      ┃ ┣obs_init_module(obs-filters.dll): 1.942 ms
+14:25:35.479:      ┃ ┣obs_init_module(obs-ndi.dll): 70.735 ms
+14:25:35.480:      ┃ ┣obs_init_module(obs-ghostscript.dll): 1.1 ms
+14:25:35.480:      ┃ ┣obs_init_module(obs-text.dll): 0.182 ms
+14:25:35.480:      ┃ ┣obs_init_module(obs-outputs.dll): 0.069 ms
+14:25:35.480:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 119.628 ms
+14:25:35.480:      ┃ ┃ ┗nvenc_check: 0.792 ms
+14:25:35.480:      ┃ ┣obs_init_module(obs-browser.dll): 2.427 ms
+14:25:35.480:      ┃ ┣obs_init_module(frontend-tools.dll): 5.28 ms
+14:25:35.480:      ┃ ┣obs_init_module(obs-color-monitor.dll): 0.123 ms
+14:25:35.480:      ┃ ┣obs_init_module(image-source.dll): 0.004 ms
+14:25:35.480:      ┃ ┣obs_init_module(decklink-output-ui.dll): 0 ms
+14:25:35.480:      ┃ ┣obs_init_module(decklink.dll): 0.984 ms
+14:25:35.480:      ┃ ┣obs_init_module(enc-amf.dll): 26.311 ms
+14:25:35.480:      ┃ ┣obs_init_module(advanced-scene-switcher.dll): 52.259 ms
+14:25:35.480:      ┃ ┣obs_init_module(decklink-captions.dll): 0 ms
+14:25:35.480:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 1.645 ms
+14:25:35.480:      ┃ ┣obs_init_module(obs-websocket.dll): 6.81 ms
+14:25:35.480:      ┃ ┗reset_win32_symbol_paths: 0.143 ms
+14:25:35.480:      ┣OBSBasic::InitService: 6.716 ms
+14:25:35.480:      ┣OBSBasic::ResetOutputs: 0.489 ms
+14:25:35.480:      ┣OBSBasic::CreateHotkeys: 0.042 ms
+14:25:35.480:      ┣OBSBasic::InitPrimitives: 0.085 ms
+14:25:35.480:      ┗OBSBasic::Load: 323.034 ms
+14:25:35.480: obs_hotkey_thread(25 ms): min=0.002 ms, median=0.004 ms, max=8.947 ms, 99th percentile=0.226 ms, 100% below 25 ms
+14:25:35.481: audio_thread(Audio): min=0.012 ms, median=0.059 ms, max=6.158 ms, 99th percentile=3.144 ms
+14:25:35.481:  ┗receive_audio: min=0.001 ms, median=0.55 ms, max=4.378 ms, 99th percentile=2.714 ms, 0.473128 calls per parent call
+14:25:35.481:    ┣buffer_audio: min=0.001 ms, median=0.001 ms, max=0.024 ms, 99th percentile=0.003 ms
+14:25:35.481:    ┗do_encode: min=0.012 ms, median=0.547 ms, max=4.316 ms, 99th percentile=2.711 ms
+14:25:35.481:      ┣encode(Track1): min=0.017 ms, median=0.525 ms, max=3.736 ms, 99th percentile=2.659 ms, 0.500691 calls per parent call
+14:25:35.481:      ┣send_packet: min=0.001 ms, median=0.007 ms, max=0.203 ms, 99th percentile=0.023 ms
+14:25:35.481:      ┗encode(adv_stream_audio): min=0.008 ms, median=0.55 ms, max=4.293 ms, 99th percentile=2.718 ms, 0.499309 calls per parent call
+14:25:35.481: obs_graphics_thread(33.3333 ms): min=0.063 ms, median=5.451 ms, max=57.281 ms, 99th percentile=10.996 ms, 99.881% below 33.333 ms
+14:25:35.481:  ┣tick_sources: min=0 ms, median=0.02 ms, max=45.494 ms, 99th percentile=0.061 ms
+14:25:35.481:  ┣output_frame: min=0.057 ms, median=5.114 ms, max=36.63 ms, 99th percentile=10.491 ms
+14:25:35.481:  ┃ ┗gs_context(video->graphics): min=0.057 ms, median=5.114 ms, max=36.629 ms, 99th percentile=10.49 ms
+14:25:35.481:  ┃   ┣render_video: min=0.005 ms, median=4.983 ms, max=36.54 ms, 99th percentile=10.319 ms
+14:25:35.481:  ┃   ┃ ┗render_main_texture: min=0.003 ms, median=4.981 ms, max=36.539 ms, 99th percentile=10.317 ms
+14:25:35.481:  ┃   ┗gs_flush: min=0.047 ms, median=0.128 ms, max=0.299 ms, 99th percentile=0.237 ms
+14:25:35.481:  ┗render_displays: min=0 ms, median=0.304 ms, max=14.542 ms, 99th percentile=0.443 ms
+14:25:35.481: video_thread(Webcam output): min=3.042 ms, median=3.135 ms, max=15.583 ms, 99th percentile=3.658 ms
+14:25:35.481: OBSBasic::ResetOutputs: min=0.444 ms, median=1.387 ms, max=2.411 ms, 99th percentile=2.411 ms
+14:25:35.481: OBSBasic::ResetVideo: min=5.449 ms, median=7.047 ms, max=24.487 ms, 99th percentile=24.487 ms
+14:25:35.481: obs_graphics_thread(33.3333 ms): min=2.276 ms, median=5.553 ms, max=13.52 ms, 99th percentile=10.554 ms, 100% below 33.333 ms
+14:25:35.481:  ┣tick_sources: min=0.013 ms, median=0.021 ms, max=0.356 ms, 99th percentile=0.053 ms
+14:25:35.481:  ┣output_frame: min=1.914 ms, median=5.214 ms, max=13.146 ms, 99th percentile=10.171 ms
+14:25:35.481:  ┃ ┗gs_context(video->graphics): min=1.913 ms, median=5.213 ms, max=13.145 ms, 99th percentile=10.17 ms
+14:25:35.482:  ┃   ┣render_video: min=1.845 ms, median=5.1 ms, max=13.004 ms, 99th percentile=9.988 ms
+14:25:35.482:  ┃   ┃ ┗render_main_texture: min=1.843 ms, median=5.098 ms, max=13.001 ms, 99th percentile=9.985 ms
+14:25:35.482:  ┃   ┗gs_flush: min=0.046 ms, median=0.109 ms, max=0.299 ms, 99th percentile=0.223 ms
+14:25:35.482:  ┗render_displays: min=0.003 ms, median=0.312 ms, max=0.84 ms, 99th percentile=0.465 ms
+14:25:35.482: obs_graphics_thread(33.3333 ms): min=2.304 ms, median=5.985 ms, max=50.273 ms, 99th percentile=12.001 ms, 99.992% below 33.333 ms
+14:25:35.482:  ┣tick_sources: min=0.014 ms, median=0.022 ms, max=25.416 ms, 99th percentile=3.821 ms
+14:25:35.482:  ┣output_frame: min=2.272 ms, median=5.588 ms, max=49.946 ms, 99th percentile=10.815 ms
+14:25:35.482:  ┃ ┗gs_context(video->graphics): min=2.272 ms, median=5.587 ms, max=49.945 ms, 99th percentile=10.815 ms
+14:25:35.482:  ┃   ┣render_video: min=2.263 ms, median=5.513 ms, max=49.869 ms, 99th percentile=10.676 ms
+14:25:35.482:  ┃   ┃ ┣render_main_texture: min=2.123 ms, median=5.428 ms, max=49.866 ms, 99th percentile=10.663 ms
+14:25:35.482:  ┃   ┃ ┣render_convert_texture: min=0.008 ms, median=0.011 ms, max=0.061 ms, 99th percentile=0.018 ms, 0.285902 calls per parent call
+14:25:35.482:  ┃   ┃ ┗output_gpu_encoders: min=0 ms, median=0.033 ms, max=0.279 ms, 99th percentile=0.105 ms, 0.285902 calls per parent call
+14:25:35.482:  ┃   ┗gs_flush: min=0.003 ms, median=0.09 ms, max=0.462 ms, 99th percentile=0.184 ms
+14:25:35.482:  ┗render_displays: min=0.002 ms, median=0.326 ms, max=11.155 ms, 99th percentile=0.569 ms
+14:25:35.482: send_packet: min=0.002 ms, median=0.012 ms, max=4.521 ms, 99th percentile=0.074 ms
+14:25:35.482: obs_graphics_thread(33.3333 ms): min=0.073 ms, median=5.979 ms, max=14.008 ms, 99th percentile=11.808 ms, 100% below 33.333 ms
+14:25:35.482:  ┣tick_sources: min=0.002 ms, median=0.022 ms, max=4.976 ms, 99th percentile=4.048 ms
+14:25:35.482:  ┣output_frame: min=0.063 ms, median=5.638 ms, max=13.579 ms, 99th percentile=11.172 ms
+14:25:35.482:  ┃ ┗gs_context(video->graphics): min=0.063 ms, median=5.637 ms, max=13.578 ms, 99th percentile=11.171 ms
+14:25:35.483:  ┃   ┣render_video: min=0.003 ms, median=5.556 ms, max=13.495 ms, 99th percentile=11.06 ms
+14:25:35.483:  ┃   ┃ ┗render_main_texture: min=0.001 ms, median=5.554 ms, max=13.493 ms, 99th percentile=11.058 ms
+14:25:35.483:  ┃   ┗gs_flush: min=0.043 ms, median=0.069 ms, max=0.33 ms, 99th percentile=0.159 ms
+14:25:35.483:  ┗render_displays: min=0 ms, median=0.27 ms, max=0.458 ms, 99th percentile=0.393 ms
+14:25:35.483: =================================================
+14:25:35.483: == Profiler Time Between Calls ==================
+14:25:35.483: obs_hotkey_thread(25 ms): min=24.44 ms, median=25.917 ms, max=66.933 ms, 16.3991% within ±2% of 25 ms (0.0204222% lower, 83.5805% higher)
+14:25:35.483: obs_graphics_thread(33.3333 ms): min=9.381 ms, median=33.333 ms, max=57.286 ms, 99.7618% within ±2% of 33.333 ms (0.119119% lower, 0.119119% higher)
+14:25:35.483: obs_graphics_thread(33.3333 ms): min=32.912 ms, median=33.333 ms, max=33.756 ms, 100% within ±2% of 33.333 ms (0% lower, 0% higher)
+14:25:35.483: obs_graphics_thread(33.3333 ms): min=16.387 ms, median=33.333 ms, max=50.278 ms, 99.9523% within ±2% of 33.333 ms (0.0238626% lower, 0.0238626% higher)
+14:25:35.483: obs_graphics_thread(33.3333 ms): min=32.989 ms, median=33.333 ms, max=33.678 ms, 100% within ±2% of 33.333 ms (0% lower, 0% higher)
+14:25:35.483: =================================================
+14:25:35.813: Blocked loading of '\coresync_x64.dll' 9 times.
+14:25:35.813: Number of memory leaks: 3

@@ -1,0 +1,54 @@
+uniform float4x4 ViewProj;
+uniform texture2d image;
+uniform float intensity;
+uniform float4 color = {1.0, 1.0, 1.0, 1.0};
+
+sampler_state def_sampler {
+	Filter   = Point;
+	AddressU = Clamp;
+	AddressV = Clamp;
+};
+
+struct VertInOut {
+	float4 pos : POSITION;
+	float2 uv  : TEXCOORD0;
+};
+
+VertInOut VSDefault(VertInOut vert_in)
+{
+	VertInOut vert_out;
+	vert_out.pos = mul(float4(vert_in.pos.xyz, 1.0), ViewProj);
+	vert_out.uv  = vert_in.uv;
+	return vert_out;
+}
+
+float4 PSDrawBare(VertInOut vert_in) : TARGET
+{
+	float r = image.Sample(def_sampler, vert_in.uv).x * intensity;
+	if (r>1.0) r = 1.0;
+	return float4(color.xyz*r, 1.0);
+}
+
+float4 PSDrawGraticule(VertInOut vert_in) : TARGET
+{
+	float a = image.Sample(def_sampler, vert_in.uv).a;
+	return float4(color.xyz, color.a*a);
+}
+
+technique Draw
+{
+	pass
+	{
+		vertex_shader = VSDefault(vert_in);
+		pixel_shader  = PSDrawBare(vert_in);
+	}
+}
+
+technique DrawGraticule
+{
+	pass
+	{
+		vertex_shader = VSDefault(vert_in);
+		pixel_shader  = PSDrawGraticule(vert_in);
+	}
+}
